@@ -6,6 +6,7 @@ AS
 BEGIN
     DBMS_OUTPUT.PUT_LINE('Old Line');
     DBMS_OUTPUT.PUT_LINE('2-Oct-2026 Line');
+    DBMS_OUTPUT.PUT_LINE('6-Oct-2026 1st Line');
     DBMS_OUTPUT.PUT_LINE('2-Oct-2026 2nd Line');
     DBMS_OUTPUT.PUT_LINE('2-Oct-2026 3nd Line');
 END;
